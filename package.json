@@ -1,0 +1,22 @@
+{
+    "name": "fresh-material",
+    "displayName": "vscode-fresh-material",
+    "description": "A theme based on OneDark to mimick my atom setup",
+    "version": "0.1.0",
+    "publisher": "2ndshift",
+    "engines": {
+        "vscode": "^1.11.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fresh Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material.json"
+            }
+        ]
+    }
+}
