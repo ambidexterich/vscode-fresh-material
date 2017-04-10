@@ -1,6 +1,6 @@
 # Fresh Material
 
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/master/screenshots/preview.png)
+![](https://github.com/ambidexterich/vscode-fresh-material/blob/master/screenshots/preview.png)
 
 ## Issues
 If you find any colors that I missed for the UI or an language syntax that is off open an [issue](https://github.com/ambidexterich/vscode-fresh-material/issues
