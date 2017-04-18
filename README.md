@@ -12,6 +12,9 @@ UI Theme - Adapted from atom-material using the purple primary and accent color.
 Syntax Theme - Ported directly from atom.io One Dark syntax
 * [one-dark-syntax](https://github.com/atom/one-dark-syntax)
 
+Terminal Theme - Borrowed from Flat UI Terminal base and bright ansi colors
+* [Flat UI Terminal](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme)
+
 ## License
 
 Copyright 2017 Rich Hamburg
@@ -21,4 +24,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-``
