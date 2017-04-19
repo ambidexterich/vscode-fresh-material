@@ -6,3 +6,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 - Initial UI theme with no language syntax
 - README.md
 - REFERENCE.md
+
+# [0.0.2]
+### Added
+- JS language syntax
+- Package icon file
