@@ -6,6 +6,139 @@
                 "background": "#333842",
                 "foreground": "#ABB2BE"
             }
+        },
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#5C6370"
+            }
+        },
+        {
+            "name": "Blue",
+            "scope": [
+                "entity.name.accessor",
+                "entity.name.function",
+                "support.function.console"
+            ],
+            "settings": {
+                "foreground": "#61afef"
+            }
+        },
+        {
+            "name": "Green",
+            "scope": [
+                "string.quasi",
+                "string.quoted.double",
+                "string.quoted.single"
+            ],
+            "settings": {
+                "foreground": "#98c379"
+            }
+        },
+        {
+            "name": "Node",
+            "scope" : [
+                "support.module.node",
+                "support.type.object.node",
+                "support.type.object.process"
+            ],
+            "settings": {
+                "foreground": "#36A252"
+            }
+        },
+        {
+            "name": "Orange Dark",
+            "scope": [
+                "constant.language.boolean",
+                "constant.language.null",
+                "constant.numeric",
+                "entity.other.attribute-name",
+                "support.type.object.console",
+                "variable.other.constant",
+                "variable.other.property"
+            ],
+            "settings": {
+                "foreground": "#d19a66"
+            }
+        },
+        {
+            "name": "Orange Light",
+            "scope": [
+                "entity.name.class",
+                "entity.name.type.new",
+                "support.class.builtin",
+                "variable.other.class"
+            ],
+            "settings": {
+                "foreground": "#e5c07b"
+            }
+        },
+        {
+            "name": "Purple",
+            "scope": [
+                "keyword.control.anchor.regexp",
+                "keyword.control.conditional",
+                "keyword.control.flow",
+                "keyword.control.loop",
+                "keyword.control.module",
+                "keyword.operator",
+                "storage.modifier",
+                "storage.type",
+                "storage.type.function"
+            ],
+            "settings": {
+                "foreground": "#c678dd"
+            }
+        },
+        {
+            "name": "Red Dark",
+            "scope": [
+                "variable.language.this"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#be5046"
+            }
+        },
+        {
+            "name": "Red Light",
+            "scope": [
+                "constant.other.object.key",
+                "entity.name.tag",
+                "meta.instance.constructor",
+                "support.type.object.dom",
+                "variable.other.object",
+                "variable.other.readwrite"
+            ],
+            "settings": {
+                "foreground": "#e06c75"
+            }
+        },
+        {
+            "name": "Cyan",
+            "scope": [
+                "keyword.operator.arithmetic",
+                "keyword.operator.assignment",
+                "keyword.operator.comparison",
+                "keyword.operator.new",
+                "storage.type.accessor",
+                "string.regexp.js",
+                "support.function.mutator",
+                "support.type.object.module keyword.operator.accessor",
+                "support.type.object.module keyword.operator.accessor support.type.object.module"
+            ],
+            "settings": {
+                "foreground": "#56b6c2"
+            }
+        },
+        {
+            "name": "None",
+            "scope": "",
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
         }
     ],
     "colors": {
@@ -53,7 +186,7 @@
         "editorFindMatch": "#558EFC",
         "editorFindRangeHighlight" : "#324464",
         "editorFindWidgetBackground": "#282C34",
-        "editorForeground": "#ABB2BE",
+        "editorForeground": "#ABB2BF",
         "editorHoverBackground": "#1E1F29",
         "editorHoverBorder": "#7E5BBF",
         "editorInactiveSelection" : "#7E5BBF50",
