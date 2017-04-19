@@ -7,7 +7,11 @@ All notable changes to the "fresh-material" extension will be documented in this
 - README.md
 - REFERENCE.md
 
-# [0.0.2]
+# [0.1.0]
 ### Added
 - JS language syntax
 - Package icon file
+
+# [0.1.1]
+### Changed
+- Limit scopes to JS
