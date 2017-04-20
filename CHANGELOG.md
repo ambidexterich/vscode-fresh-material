@@ -15,3 +15,9 @@ All notable changes to the "fresh-material" extension will be documented in this
 # [0.1.1]
 ### Changed
 - Limit scopes to JS
+
+# [0.2.0]
+### Added
+- JSON language syntax
+- CSS language syntax
+- SCSS language syntax
