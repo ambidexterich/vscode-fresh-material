@@ -16,12 +16,26 @@
             }
         },
         {
+            "name": "this",
+            "scope": [
+                "variable.language.this.js"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#be5046"
+            }
+        },
+        {
             "name": "Blue",
             "scope": [
                 "entity.name.accessor.js",
                 "entity.name.function.js",
                 "entity.name.function.method.js",
-                "support.function.console.js"
+                "support.function.console.js",
+
+                "entity.other.attribute-name.id.css",
+                "entity.name.function.scss",
+                "support.function.misc.scss"
             ],
             "settings": {
                 "foreground": "#61afef"
@@ -31,8 +45,9 @@
             "name": "Green",
             "scope": [
                 "string.quasi.js",
-                "string.quoted.double.js",
-                "string.quoted.single.js"
+                "string.quoted.double",
+                "string.quoted.single",
+                "string.unquoted"
             ],
             "settings": {
                 "foreground": "#98c379"
@@ -55,11 +70,20 @@
                 "constant.language.boolean.true.js",
                 "constant.language.boolean.false.js",
                 "constant.language.null.js",
-                "constant.numeric.js",
+                "constant.numeric",
                 "entity.other.attribute-name.jsx",
                 "support.type.object.console.js",
                 "variable.other.constant.js",
-                "variable.other.property.js"
+                "variable.other.property.js",
+
+                "entity.other.attribute-name.css",
+                "entity.other.attribute-name.pseudo-class.css",
+                "meta.set.variable.scss",
+                "meta.at-rule.include.scss",
+                "support.constant.media.css",
+                "keyword.other.unit.scss",
+                "entity.other.attribute-name.attribute.scss",
+                "support.constant.property-value.scss"
             ],
             "settings": {
                 "foreground": "#d19a66"
@@ -71,7 +95,9 @@
                 "entity.name.class.js",
                 "entity.name.type.new.js",
                 "support.class.builtin.js",
-                "variable.other.class.js"
+                "variable.other.class.js",
+
+                "entity.other.attribute-name.class.css"
             ],
             "settings": {
                 "foreground": "#e5c07b"
@@ -93,7 +119,21 @@
                 "storage.type.js",
                 "storage.type.class.js",
                 "storage.type.extends.js",
-                "storage.type.function.js"
+                "storage.type.function.js",
+
+                "punctuation.definition.entity.begin.bracket.square.css",
+                "punctuation.definition.entity.end.bracket.square.css",
+                "punctuation.section.function.css",
+                "keyword.control.at-rule.font-face.css",
+                "keyword.control.at-rule.media.css",
+                "keyword.control.at-rule.media.scss",
+                "keyword.control.at-rule.import.scss",
+                "keyword.control.at-rule.include.scss",
+                "keyword.control.at-rule.function.scss",
+                "keyword.control.at-rule.mixin.scss",
+
+                "keyword.control.return.scss",
+                "keyword.control.for.scss"
             ],
             "settings": {
                 "foreground": "#c678dd"
@@ -102,10 +142,9 @@
         {
             "name": "Red Dark",
             "scope": [
-                "variable.language.this.js"
+                "variable.interpolation.scss"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#be5046"
             }
         },
@@ -119,7 +158,15 @@
                 "support.type.object.dom.js",
                 "variable.other.object.js",
                 "variable.other.property.static.js",
-                "variable.other.readwrite.js"
+                "variable.other.readwrite.js",
+
+                "entity.name.tag.css",
+                "variable.scss",
+                "meta.set.variable punctuation.separator.key-value.scss",
+                "entity.name.tag.scss",
+                "entity.name.tag.reference.scss",
+
+                "support.type.property-name.json"
             ],
             "settings": {
                 "foreground": "#e06c75"
@@ -140,10 +187,38 @@
                 "string.regexp.js",
                 "support.function.mutator.js",
                 "support.type.object.module.js keyword.operator.accessor.js",
-                "support.type.object.module.js keyword.operator.accessor.js support.type.object.module.js"
+                "support.type.object.module.js keyword.operator.accessor.js support.type.object.module.js",
+
+                "support.type.vendored.property-name.css",
+                "support.function.url.css",
+                "keyword.operator.logical.and.media.css",
+                "source.css.scss keyword.control.operator",
+                "keyword.operator.logical.scss",
+                "constant.character.escape.scss"
+
             ],
             "settings": {
                 "foreground": "#56b6c2"
+            }
+        },
+        {
+            "name": "Gray",
+            "scope": [
+                "punctuation.definition.parameters.begin.bracket.round.scss",
+                "punctuation.definition.parameters.end.bracket.round.scss"
+            ],
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "Invalid Illegal",
+            "scope": [
+                "invalid.illegal",
+                "invalid.illegal.scss"
+            ],
+            "settings": {
+                "foreground": "#E05252"
             }
         },
         {
