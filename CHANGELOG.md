@@ -26,3 +26,10 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Added
 - XML syntax support
 - HTML syntax support
+
+# [0.4.0]
+### Added
+- TypeScript syntax support
+
+### Changed
+- Remove some overlap in language scopes
