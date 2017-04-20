@@ -2,7 +2,7 @@
     "name": "fresh-material",
     "displayName": "Fresh Material",
     "description": "A theme based on OneDark to mimick my atom setup",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "2ndshift",
     "engines": {
         "vscode": "^1.11.1"
