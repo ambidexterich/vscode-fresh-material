@@ -21,3 +21,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 - JSON language syntax
 - CSS language syntax
 - SCSS language syntax
+
+# [0.3.0]
+### Added
+- XML syntax support
+- HTML syntax support
