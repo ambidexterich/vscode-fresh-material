@@ -35,7 +35,9 @@
 
                 "entity.other.attribute-name.id.css",
                 "entity.name.function.scss",
-                "support.function.misc.scss"
+                "support.function.misc.scss",
+
+                "entity.other.attribute-name.id.html"
             ],
             "settings": {
                 "foreground": "#61afef"
@@ -83,7 +85,11 @@
                 "support.constant.media.css",
                 "keyword.other.unit.scss",
                 "entity.other.attribute-name.attribute.scss",
-                "support.constant.property-value.scss"
+                "support.constant.property-value.scss",
+
+                "entity.other.attribute-name.html",
+                "entity.other.attribute-name.xml",
+                "entity.other.attribute-name.localname.xml"
             ],
             "settings": {
                 "foreground": "#d19a66"
@@ -97,7 +103,8 @@
                 "support.class.builtin.js",
                 "variable.other.class.js",
 
-                "entity.other.attribute-name.class.css"
+                "entity.other.attribute-name.class.css",
+                "meta.tag.sgml.doctype.html"
             ],
             "settings": {
                 "foreground": "#e5c07b"
@@ -133,7 +140,9 @@
                 "keyword.control.at-rule.mixin.scss",
 
                 "keyword.control.return.scss",
-                "keyword.control.for.scss"
+                "keyword.control.for.scss",
+
+                "meta.tag.sgml.html punctuation.definition.tag.html"
             ],
             "settings": {
                 "foreground": "#c678dd"
@@ -166,7 +175,12 @@
                 "entity.name.tag.scss",
                 "entity.name.tag.reference.scss",
 
-                "support.type.property-name.json"
+                "support.type.property-name.json",
+                "entity.name.tag.structure.any.html",
+                "entity.name.tag.block.any.html",
+                "entity.name.tag.inline.any.html",
+                "entity.name.tag.xml",
+                "entity.name.tag.localname.xml"
             ],
             "settings": {
                 "foreground": "#e06c75"
