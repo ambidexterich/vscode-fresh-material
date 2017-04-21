@@ -33,3 +33,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 
 ### Changed
 - Remove some overlap in language scopes
+
+# [0.5.0]
+### Added
+- Shellscript syntax support
