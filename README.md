@@ -1,10 +1,10 @@
-# Fresh Material (v0.5.0)
+# Fresh Material (v1.0.0)
 
 ![](https://github.com/ambidexterich/vscode-fresh-material/blob/master/screenshots/preview.png)
 
 ## Issues
-If you find any colors that I missed for the UI or an language syntax that is off open an [issue](https://github.com/ambidexterich/vscode-fresh-material/issues
-)
+I created this them through manual scope lookup. If you find any colors that I missed for the UI or a language syntax, open an [issue](https://github.com/ambidexterich/vscode-fresh-material/issues). Please include a code sample where the color is missing.
+
 ## Credits
 UI Theme - Adapted from atom-material using the purple primary and accent color.
 * [atom-material-ui](https://github.com/atom-material/atom-material-ui)
