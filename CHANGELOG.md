@@ -37,3 +37,14 @@ All notable changes to the "fresh-material" extension will be documented in this
 # [0.5.0]
 ### Added
 - Shellscript syntax support
+
+# [1.0.0]
+### Added
+- Java syntax support
+- Go syntax support
+- PHP syntax support
+- Ruby syntax support
+- C# syntax support
+
+### Changed
+- Remove some language specific scopes
