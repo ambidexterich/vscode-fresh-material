@@ -52,3 +52,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 # [1.1.0]
 ### Added
 - Markdown syntax support
+
+# [1.1.1]
+### Changed
+- Fix preview image path
