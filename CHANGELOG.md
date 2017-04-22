@@ -56,3 +56,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 # [1.1.1]
 ### Changed
 - Fix preview image path
+
+# [1.1.2]
+### Changed
+- Fix type in changelog

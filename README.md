@@ -1,4 +1,4 @@
-# Fresh Material (v1.1.1)
+# Fresh Material (v1.1.2)
 
 ![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/master/screenshots/preview.png)
 
