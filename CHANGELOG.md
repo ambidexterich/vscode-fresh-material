@@ -1,4 +1,4 @@
-# Change Log
+git # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
 ## [0.0.1]
@@ -48,3 +48,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 
 ### Changed
 - Remove some language specific scopes
+
+# [1.1.0]
+### Added
+- Markdown syntax support
