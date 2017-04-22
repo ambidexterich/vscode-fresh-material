@@ -9,7 +9,11 @@
         },
         {
             "name": "Comment",
-            "scope": "comment",
+            "scope": [
+                "comment",
+                "meta.separator",
+                "markup.quote"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#5C6370"
@@ -36,6 +40,7 @@
                 "keyword.other.special-method.ruby",
                 "meta.function-call.object.php",
                 "meta.method-call.java meta.method.java",
+                "string.other.link.title.markdown",
                 "support.function.console.js",
                 "support.function.dom.ts",
                 "support.function.go",
@@ -48,6 +53,7 @@
         {
             "name": "Green",
             "scope": [
+                "markup.inline.raw.markdown",
                 "punctuation.definition.string",
                 "string.quasi.js",
                 "string.quoted.double",
@@ -193,16 +199,21 @@
         {
             "name": "Red Light",
             "scope": [
+                "beginning.punctuation.definition.list.markdown",
                 "constant.other.object.key.js",
                 "constant.other.object.key.js string.unquoted",
+                "constant.other.reference.link.markdown",
+                "entity.name.section.markdown",
                 "entity.name.tag",
                 "entity.name.variable.field.cs",
                 "entity.name.variable.local.cs",
                 "entity.name.variable.parameter.cs",
+                "markup.heading.setext",
                 "meta.class.java meta.class.body.java meta.method.java meta.method.body.java",
                 "meta.definition.variable.name.java",
                 "meta.object-literal.key",
                 "meta.set.variable punctuation.separator.key-value.scss",
+                "punctuation.definition.heading.markdown",
                 "punctuation.definition.variable.shell",
                 "source.js meta.instance.constructor",
                 "support.type.object.dom.js",
@@ -227,7 +238,7 @@
         {
             "name": "Cyan",
             "scope": [
-                "constant.character.escape.scss",
+                "constant.character.escape",
                 "constant.other.symbol.ruby",
                 "keyword.control.new.java",
                 "keyword.operator.address.go",
@@ -292,6 +303,22 @@
             ],
             "settings": {
                 "foreground": "#E05252"
+            }
+        },
+        {
+            "name": "Italic",
+            "scope": "markup.italic",
+            "settings": {
+                "foreground": "#c678dd",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Bold",
+            "scope": "markup.bold",
+            "settings" : {
+                "foreground": "#d19a66",
+                "fontStyle": "bold"
             }
         },
         {
