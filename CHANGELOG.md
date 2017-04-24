@@ -65,3 +65,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Added
 - Scala syntax support
 - Missing scopes for supported syntaxes
+
+## [1.2.1]
+### Changed
+- Ugly status bar when debugging
