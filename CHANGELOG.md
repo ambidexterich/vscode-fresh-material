@@ -7,38 +7,38 @@ All notable changes to the "fresh-material" extension will be documented in this
 - README.md
 - REFERENCE.md
 
-# [0.1.0]
+## [0.1.0]
 ### Added
 - JS language syntax
 - Package icon file
 
-# [0.1.1]
+## [0.1.1]
 ### Changed
 - Limit scopes to JS
 
-# [0.2.0]
+## [0.2.0]
 ### Added
 - JSON language syntax
 - CSS language syntax
 - SCSS language syntax
 
-# [0.3.0]
+## [0.3.0]
 ### Added
 - XML syntax support
 - HTML syntax support
 
-# [0.4.0]
+## [0.4.0]
 ### Added
 - TypeScript syntax support
 
 ### Changed
 - Remove some overlap in language scopes
 
-# [0.5.0]
+## [0.5.0]
 ### Added
 - Shellscript syntax support
 
-# [1.0.0]
+## [1.0.0]
 ### Added
 - Java syntax support
 - Go syntax support
@@ -49,14 +49,14 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - Remove some language specific scopes
 
-# [1.1.0]
+## [1.1.0]
 ### Added
 - Markdown syntax support
 
-# [1.1.1]
+## [1.1.1]
 ### Changed
 - Fix preview image path
 
-# [1.1.2]
+## [1.1.2]
 ### Changed
 - Fix type in changelog
