@@ -60,3 +60,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 ## [1.1.2]
 ### Changed
 - Fix type in changelog
+
+## [1.2.0]
+### Added
+- Scala syntax support
+- Missing scopes for supported syntaxes
