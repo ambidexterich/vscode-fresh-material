@@ -69,3 +69,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 ## [1.2.1]
 ### Changed
 - Ugly status bar when debugging
+
+## [1.2.2]
+### Added
+- CSS variable color and var function
