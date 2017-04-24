@@ -432,9 +432,9 @@
 
         "statusBarForeground": "#9095A1",
         "statusBarBackground": "#23272E",
-        "xxxstatusBarDebuggingBackground": "##00ff00",
-        "xxxstatusBarInfoItemBackground" : "#00ffff",
-        "xxxstatusBarInfoItemHoverBackground" : "#0000ff",
+        "statusBarDebuggingBackground": "#23272E",
+        "xxstatusBarInfoItemBackground" : "#00ffff",
+        "xxstatusBarInfoItemHoverBackground" : "#0000ff",
         "statusBarItemActiveBackground" : "#213237",
         "statusBarItemHoverBackground" : "#213237",
         "statusBarNoFolderBackground": "#23272E",
