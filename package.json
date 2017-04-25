@@ -2,7 +2,7 @@
     "name": "fresh-material",
     "displayName": "Fresh Material",
     "description": "A theme based on One Dark and Atom Material UI to mimic my atom setup.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "publisher": "2ndshift",
     "engines": {
         "vscode": "^1.11.1"

@@ -73,3 +73,10 @@ All notable changes to the "fresh-material" extension will be documented in this
 ## [1.2.2]
 ### Added
 - CSS variable color and var function
+
+## [1.2.3]
+### Added
+- Additional PHP scopes in theme
+
+### Changed
+- Reorganized some PHP scopes for better reading. 
