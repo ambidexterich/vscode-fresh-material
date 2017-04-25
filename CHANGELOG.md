@@ -79,4 +79,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 - Additional PHP scopes in theme
 
 ### Changed
-- Reorganized some PHP scopes for better reading. 
+- Reorganized some PHP scopes for better reading.
+
+## [1.2.4]
+### Added
+- Additional PHP scopes in theme
