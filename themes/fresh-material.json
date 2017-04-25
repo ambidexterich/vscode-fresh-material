@@ -298,7 +298,7 @@
                 "support.function.builtin",
                 "support.function.construct.output.php",
                 "support.function.construct.php",
-                "support.function.datatime.php",
+                "support.function.datetime.php",
                 "support.function.js",
                 "support.function.json.php",
                 "support.function.magic.php",
