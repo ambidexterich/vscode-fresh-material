@@ -193,6 +193,7 @@
                 "keyword.other.alias.sql",
                 "keyword.other.class.cs",
                 "keyword.other.data-integrity.sql",
+                "keyword.other.DDL.create.II.sql",
                 "keyword.other.DML.sql",
                 "keyword.other.function.use.php",
                 "keyword.other.import",
