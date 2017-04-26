@@ -15,7 +15,7 @@ Syntax Theme - Ported directly from atom.io One Dark syntax
 * [one-dark-syntax](https://github.com/atom/one-dark-syntax)
 
 Terminal Theme - Borrowed from Flat UI Terminal base and bright ansi colors
-* [Flat UI Terminal](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme)
+* [Flat UI Terminal](https://github.com/ahmetsulek/flat-terminal)
 
 ## License
 
