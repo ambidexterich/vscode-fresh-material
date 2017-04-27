@@ -88,3 +88,10 @@ All notable changes to the "fresh-material" extension will be documented in this
 ## [1.3.0]
 ### Added
 - SQL related scopes
+
+## [1.4.0]
+### Added
+- Elixir syntax support
+
+### Changed
+- Lightened the Dark Red color
