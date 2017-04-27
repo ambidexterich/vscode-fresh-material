@@ -12,7 +12,9 @@
             "scope": [
                 "comment",
                 "meta.separator",
-                "markup.quote"
+                "markup.quote",
+                "unused.comment",
+                "wildcard.comment"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -40,7 +42,7 @@
                 "entity.name.function",
                 "entity.name.function.method.js",
                 "entity.other.attribute-name.id",
-                "keyword.other.special-method.ruby",
+                "keyword.other.special-method",
                 "meta.function-call.object.php",
                 "meta.function-call.php",
                 "meta.function-call.static.php",
@@ -106,6 +108,7 @@
                 "keyword.other.unit.scss",
                 "meta.at-rule.include.scss",
                 "meta.set.variable.scss",
+                "punctuation.definition.constant",
                 "support.constant.ext.php",
                 "support.constant.font-name",
                 "support.constant.json",
@@ -215,6 +218,7 @@
                 "punctuation.definition.entity.end.bracket.square.css",
                 "punctuation.definition.group.regexp",
                 "punctuation.section.function.css",
+                "punctuation.section.scope.elixir",
                 "storage.modifier",
                 "storage.type",
                 "storage.type.class",
@@ -229,12 +233,11 @@
         {
             "name": "Red Dark",
             "scope": [
-                "punctuation.section.embedded.begin",
-                "punctuation.section.embedded.end",
+                "punctuation.section.embedded",
                 "variable.interpolation.scss"
             ],
             "settings": {
-                "foreground": "#B9362B"
+                "foreground": "#BA5048"
             }
         },
         {
@@ -256,7 +259,7 @@
                 "meta.object-literal.key",
                 "meta.set.variable punctuation.separator.key-value.scss",
                 "punctuation.definition.heading.markdown",
-                "punctuation.definition.variable.shell",
+                "punctuation.definition.variable",
                 "source.js meta.instance.constructor",
                 "string.quoted.double.sql.php",
                 "string.quoted.single.sql.php",
@@ -293,7 +296,7 @@
             "name": "Cyan",
             "scope": [
                 "constant.character.escape",
-                "constant.other.symbol.ruby",
+                "constant.other.symbol",
                 "keyword.control.new.java",
                 "keyword.operator.address.go",
                 "keyword.operator.arithmetic",
@@ -302,12 +305,14 @@
                 "keyword.operator.bitwise.php",
                 "keyword.operator.comparison",
                 "keyword.operator.decrement.go",
+                "keyword.operator.elixir",
                 "keyword.operator.increment.go",
                 "keyword.operator.increment-decrement",
                 "keyword.operator.logical",
                 "keyword.operator.logical.and.media.css",
                 "keyword.operator.logical.php",
                 "keyword.operator.new",
+                "keyword.operator.other.elixir",
                 "keyword.operator.relational",
                 "keyword.operator.scala",
                 "keyword.operator.ternary.js",
@@ -315,9 +320,7 @@
                 "punctuation.definition.tag.js",
                 "storage.type.accessor.js",
                 "storage.type.annotation.java",
-                "string.regexp.js",
-                "string.regexp.single-quoted.php",
-                "string.regexp.double-quoted.php",
+                "string.regexp",
                 "support.function.array.php",
                 "support.function.basic_functions.php",
                 "support.function.bcmath.php",
