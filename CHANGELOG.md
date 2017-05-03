@@ -95,3 +95,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 
 ### Changed
 - Lightened the Dark Red color
+
+## [1.5.0]
+### Added
+- Rust syntax support
