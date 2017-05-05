@@ -495,12 +495,12 @@
         "pickerGroup.border"                      : "#353A42",
         "pickerGroup.foreground"                  : "#696F79",
 
-        "tab.activeForeground"                    : "#ffffff",
-        "tab.activeBackground"                    : "#7E5BBF",
-        "tab.inactiveForeground"                  : "#ffffff50",
-        "tab.inactiveBackground"                  : "#282C34",
-        "tab.border"                              : "#1C1D25",
         "editorGroupHeader.tabsBackground"        : "#1C1D25",
+        "tab.activeBackground"                    : "#7E5BBF",
+        "tab.activeForeground"                    : "#ffffff",
+        "tab.border"                              : "#1C1D25",
+        "tab.inactiveBackground"                  : "#282C34",
+        "tab.inactiveForeground"                  : "#ffffff90",
 
         "editor.background"                       : "#282C34",
         "editor.findMatchBackground"              : "#558EFC",
