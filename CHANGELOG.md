@@ -99,3 +99,11 @@ All notable changes to the "fresh-material" extension will be documented in this
 ## [1.5.0]
 ### Added
 - Rust syntax support
+
+## [2.0.0]
+### Added
+- Better Ruby support
+- Yaml support
+
+### Changed
+- Theme settings for support with VSCode >=1.12.0

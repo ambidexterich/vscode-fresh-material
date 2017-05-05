@@ -1,8 +1,11 @@
-# Fresh Material (v1.5.0)
+# Fresh Material (v2.0.0)
 [![Installs](http://vsmarketplacebadge.apphb.com/installs/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 [![Rating](http://vsmarketplacebadge.apphb.com/rating-short/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 
 ![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/master/screenshots/preview.png)
+
+## UPDATE
+Visual Studio Code 1.12.0 removed the experimental version of workbench theming. It allows for more customization but, unfortunately, is incompatible with VSCode version <1.12.0. I have updated my theme to work on the latest but, if for some reason, you don't want to upgrade VSCode, version [1.5.0](https://github.com/ambidexterich/vscode-fresh-material/tree/1.5.0) should still work.
 
 ## Issues
 I created this theme through manual scope lookup. If you find any colors that I missed for the UI or a language syntax or you want a language added, open an [issue](https://github.com/ambidexterich/vscode-fresh-material/issues). Please include a code sample.
