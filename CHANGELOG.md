@@ -107,3 +107,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 
 ### Changed
 - Theme settings for support with VSCode >=1.12.0
+
+## [2.1.0]
+### Added
+- More colors
