@@ -26,6 +26,36 @@
                 "label": "Fresh Material",
                 "uiTheme": "vs-dark",
                 "path": "./themes/fresh-material.json"
+            },
+            {
+                "label": "Fresh Material - Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-blue.json"
+            },
+            {
+                "label": "Fresh Material - Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-green.json"
+            },
+            {
+                "label": "Fresh Material - Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-pink.json"
+            },
+            {
+                "label": "Fresh Material - Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-red.json"
+            },
+            {
+                "label": "Fresh Material - Indigo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-indigo.json"
+            },
+            {
+                "label": "Fresh Material - Cyan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fresh-material-cyan.json"
             }
         ]
     }
