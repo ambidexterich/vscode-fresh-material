@@ -6,12 +6,10 @@
 
 New Colors
 
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-blue.png)
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-cyan.png)
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-green.png)
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-indigo.png)
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-pink.png)
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-red.png)
+![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-all.png)
+
+## Icons
+To match the screenshot icons, install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ## IMPORTANT UPDATE
 Visual Studio Code 1.12.0 removed the experimental version of workbench theming. It allows for more customization but, unfortunately, is incompatible with VSCode version <1.12.0. I have updated my theme to work on the latest but, if for some reason, you don't want to upgrade VSCode, version [1.5.0](https://github.com/ambidexterich/vscode-fresh-material/tree/1.5.0) should still work.
