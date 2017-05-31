@@ -116,3 +116,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - README preview images
 - Theme icon file
+
+## [2.1.2]
+### Changed
+- Theme icon file (again)
+- Description
