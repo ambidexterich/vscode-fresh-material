@@ -129,3 +129,8 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - Cleaned up some colors to better match Atom One Dark and Atom Material UI
 - icon to be better viewed on dark background
+
+## [2.2.1]
+### Changed
+- Icon again
+- REFERENCE doc with updated color scopes
