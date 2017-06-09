@@ -121,3 +121,11 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - Theme icon file (again)
 - Description
+
+## [2.2.0]
+### Added
+- Colors to new customizable workspace elements as off 1.13.0
+
+### Changed
+- Cleaned up some colors to better match Atom One Dark and Atom Material UI
+- icon to be better viewed on dark background
