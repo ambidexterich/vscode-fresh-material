@@ -1,42 +1,95 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
-## [0.0.1]
-### Added
-- Initial UI theme with no language syntax
-- README.md
-- REFERENCE.md
-
-## [0.1.0]
-### Added
-- JS language syntax
-- Package icon file
-
-## [0.1.1]
+## [2.2.2]
 ### Changed
-- Limit scopes to JS
+- Update color for JSDoc-style doclet keyword to reduce visual clutter
 
-## [0.2.0]
-### Added
-- JSON language syntax
-- CSS language syntax
-- SCSS language syntax
+## [2.2.1]
+### Changed
+- Icon again
+- REFERENCE doc with updated color scopes
 
-## [0.3.0]
+## [2.2.0]
 ### Added
-- XML syntax support
-- HTML syntax support
+- Colors to new customizable workspace elements as off 1.13.0
 
-## [0.4.0]
-### Added
-- TypeScript syntax support
+## [2.1.2]
+### Changed
+- Theme icon file (again)
+- Description
 
 ### Changed
-- Remove some overlap in language scopes
+- Cleaned up some colors to better match Atom One Dark and Atom Material UI
+- icon to be better viewed on dark background
 
-## [0.5.0]
+## [2.1.1]
+### Changed
+- README preview images
+- Theme icon file
+
+## [2.1.0]
 ### Added
-- Shellscript syntax support
+- More colors
+
+## [2.0.0]
+### Added
+- Better Ruby support
+- Yaml support
+
+### Changed
+- Theme settings for support with VSCode >=1.12.0
+
+## [1.5.0]
+### Added
+- Rust syntax support
+
+## [1.4.0]
+### Added
+- Elixir syntax support
+
+### Changed
+- Lightened the Dark Red color
+
+## [1.3.0]
+### Added
+- SQL related scopes
+
+## [1.2.4]
+### Added
+- Additional PHP scopes in theme
+
+## [1.2.3]
+### Added
+- Additional PHP scopes in theme
+
+### Changed
+- Reorganized some PHP scopes for better reading.
+
+## [1.2.2]
+### Added
+- CSS variable color and var function
+
+## [1.2.1]
+### Changed
+- Ugly status bar when debugging
+
+## [1.2.0]
+### Added
+- Scala syntax support
+- Missing scopes for supported syntaxes
+
+## [1.1.2]
+### Changed
+- Fix typo in changelog
+
+## [1.1.1]
+### Changed
+- Fix preview image path
+
+## [1.1.0]
+### Added
+- Markdown syntax support
 
 ## [1.0.0]
 ### Added
@@ -49,92 +102,39 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - Remove some language specific scopes
 
-## [1.1.0]
+## [0.5.0]
 ### Added
-- Markdown syntax support
+- Shellscript syntax support
 
-## [1.1.1]
-### Changed
-- Fix preview image path
-
-## [1.1.2]
-### Changed
-- Fix type in changelog
-
-## [1.2.0]
+## [0.4.0]
 ### Added
-- Scala syntax support
-- Missing scopes for supported syntaxes
-
-## [1.2.1]
-### Changed
-- Ugly status bar when debugging
-
-## [1.2.2]
-### Added
-- CSS variable color and var function
-
-## [1.2.3]
-### Added
-- Additional PHP scopes in theme
+- TypeScript syntax support
 
 ### Changed
-- Reorganized some PHP scopes for better reading.
+- Remove some overlap in language scopes
 
-## [1.2.4]
+## [0.3.0]
 ### Added
-- Additional PHP scopes in theme
+- XML syntax support
+- HTML syntax support
 
-## [1.3.0]
+## [0.2.0]
 ### Added
-- SQL related scopes
+- JSON language syntax
+- CSS language syntax
+- SCSS language syntax
 
-## [1.4.0]
+## [0.1.1]
+### Changed
+- Limit scopes to JS
+
+## [0.1.0]
 ### Added
-- Elixir syntax support
+- JS language syntax
+- Package icon file
 
-### Changed
-- Lightened the Dark Red color
-
-## [1.5.0]
+## [0.0.1]
 ### Added
-- Rust syntax support
-
-## [2.0.0]
-### Added
-- Better Ruby support
-- Yaml support
-
-### Changed
-- Theme settings for support with VSCode >=1.12.0
-
-## [2.1.0]
-### Added
-- More colors
-
-## [2.1.1]
-### Changed
-- README preview images
-- Theme icon file
-
-## [2.1.2]
-### Changed
-- Theme icon file (again)
-- Description
-
-## [2.2.0]
-### Added
-- Colors to new customizable workspace elements as off 1.13.0
-
-### Changed
-- Cleaned up some colors to better match Atom One Dark and Atom Material UI
-- icon to be better viewed on dark background
-
-## [2.2.1]
-### Changed
-- Icon again
-- REFERENCE doc with updated color scopes
-
-## [2.2.2]
-### Changed
-- Update color for JSDoc-style doclet keyword to reduce visual clutter
+- Initial UI theme with no language syntax
+- README.md
+- REFERENCE.md
