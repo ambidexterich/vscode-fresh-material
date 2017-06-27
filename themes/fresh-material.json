@@ -16,6 +16,19 @@
             }
         },
         {
+            "name": "Doc Comment",
+            "scope": [
+                "comment.block.documentation.js storage.type.class.doc",
+                "comment.block.documentation.js storage.type.class.jsdoc"
+            ],
+            "settings": {
+                "fontStyle": "bold italic",
+                "foreground": "#ABB2BF88"
+            }
+        },
+
+
+        {
             "name": "this",
             "scope": [
                 "variable.language.arguments",
@@ -452,7 +465,7 @@
         "focusBorder"                             : "#7049B8",
         "foreground"                              : "#9096A2",
         "input.background"                        : "#35394200",
-        "input.border"                            : "#2B2E37",
+        "input.border"                            : "#323640",
         "input.foreground"                        : "#ABB2BF",
         "input.placeholderForeground"             : "#4F525D",
         "inputOption.activeBorder"                : "#B1E260",
