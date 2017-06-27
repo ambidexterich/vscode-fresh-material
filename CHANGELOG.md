@@ -134,3 +134,7 @@ All notable changes to the "fresh-material" extension will be documented in this
 ### Changed
 - Icon again
 - REFERENCE doc with updated color scopes
+
+## [2.2.2]
+### Changed
+- Update color for JSDoc-style doclet keyword to reduce visual clutter
