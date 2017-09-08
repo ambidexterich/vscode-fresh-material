@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.0]
+### Changed
+- Update workspace theme that broke with VSCode 1.16.0
+
 ## [2.2.2]
 ### Changed
 - Update color for JSDoc-style doclet keyword to reduce visual clutter
