@@ -547,7 +547,7 @@
         "editor.selectionBackground"              : "#3E4451",
         "editor.selectionHighlightBackground"     : "#3E4451",
         "editor.hoverHighlightBackground"         : "#3E4451",
-        "editorBracketMatch.background"           : "",
+        "editorBracketMatch.background"           : "#558EFF",
         "editorBracketMatch.border"               : "#558EFF",
         "editorCodeLens.foreground"               : "",
         "editorError.foreground"                  : "",
