@@ -16,6 +16,17 @@
             }
         },
         {
+            "name": "Doc Comment",
+            "scope": [
+                "comment.block.documentation.js storage.type.class.doc",
+                "comment.block.documentation.js storage.type.class.jsdoc"
+            ],
+            "settings": {
+                "fontStyle": "bold italic",
+                "foreground": "#ABB2BF88"
+            }
+        },
+        {
             "name": "this",
             "scope": [
                 "variable.language.arguments",
@@ -478,6 +489,7 @@
 
         "titleBar.activeBackground"               : "#23272E",
         "titleBar.inactiveBackground"             : "#23272E",
+        "titleBar.border"                         : "#00000020",
         "titleBar.activeForeground"               : "#ffffff",
         "titleBar.inactiveForeground"             : "#ffffff50",
 
@@ -488,26 +500,25 @@
         "activityBarBadge.background"             : "#FFFFFF",
         "activityBarBadge.foreground"             : "#00212B80",
 
-        "sideBarSectionHeader.background"         : "#1C1D25",
         "sideBar.background"                      : "#252830",
         "sideBar.border"                          : "#00000030",
         "sideBar.foreground"                      : "#797F8A",
-        "sideBarSectionHeader.background"         : "#3E4451",
+        "sideBarSectionHeader.background"         : "#1C1D25",
         "sideBarSectionHeader.foreground"         : "#ffffff",
         "sideBarTitle.foreground"                 : "#2695F0",
-        "extensionButton.prominentForeground"     : "",
-        "extensionButton.prominentBackground"     : "",
-        "extensionButton.prominentHoverBackground": "",
+        "extensionButton.prominentForeground"     : "#ffffff",
+        "extensionButton.prominentBackground"     : "#1D8CEB20",
+        "extensionButton.prominentHoverBackground": "#2695F0",
         "list.activeSelectionBackground"          : "#2695F0",
         "list.activeSelectionForeground"          : "#ffffff",
         "list.dropBackground"                     : "#2695F0",
         "list.focusBackground"                    : "#2695F0",
         "list.focusForeground"                    : "#ffffff",
-        "list.highlightForeground"                : "",
+        "list.highlightForeground"                : "#ffffff",
         "list.hoverBackground"                    : "#23272E",
         "list.hoverForeground"                    : "#ABB2BF",
         "list.inactiveSelectionBackground"        : "#292E34",
-        "list.inactiveSelectionForeground"        : "",
+        "list.inactiveSelectionForeground"        : "#ABB2BF",
 
         "pickerGroup.border"                      : "#353A42",
         "pickerGroup.foreground"                  : "#696F79",
@@ -515,11 +526,13 @@
         "editorGroupHeader.tabsBackground"        : "#1C1D25",
         "editorGroupHeader.tabsBorder"            : "#00000066",
         "tab.activeBackground"                    : "#2695F0",
+        "tab.activeBorder"                        : "#FFFFFF",
         "tab.activeForeground"                    : "#ffffff",
     	"tab.border"                              : "#1C1D25",
     	"tab.inactiveBackground"                  : "#282C34",
     	"tab.inactiveForeground"                  : "#ffffff40",
         "tab.unfocusedActiveForeground"           : "#ffffff80",
+        "tab.unfocusedActiveBorder"               : "#282C34",
         "tab.unfocusedInactiveForeground"         : "#ffffff40",
 
         "editor.background"                       : "#282C34",
@@ -539,7 +552,7 @@
         "editorCodeLens.foreground"               : "",
         "editorError.foreground"                  : "",
         "editorError.border"                      : "",
-        "editorGutter.background"                 : "",
+        "editorGutter.background"                 : "#282C34",
         "editorGutter.modifiedBackground"         : "#EAC72E",
         "editorGutter.addedBackground"            : "#39CA74",
         "editorGutter.deletedBackground"          : "#DD4941",
@@ -606,7 +619,6 @@
         "statusBarItem.prominentHoverBackground"  : "",
         "statusBarItem.activeBackground"          : "#213237",
         "statusBarItem.hoverBackground"           : "#213237",
-        "statusBar.noFolderBackground"            : "#23272E",
 
         "panelTitle.activeBorder"                 : "#1D8CEB",
         "panelTitle.inactiveForeground"           : "#9097A2",
@@ -633,8 +645,8 @@
         "terminal.ansiWhite"                      : "#BEC3C7",
         "terminal.ansiYellow"                     : "#EA9E2C",
 
-        "welcomePage.buttonBackground"            : "",
-        "welcomePage.buttonHoverBackground"       : "",
+        "welcomePage.buttonBackground"            : "#1C1D25",
+        "welcomePage.buttonHoverBackground"       : "#1D8CEB20",
         "walkThrough.embeddedEditorBackground"    : ""
     }
 }
