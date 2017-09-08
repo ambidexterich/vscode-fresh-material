@@ -522,7 +522,7 @@
 
         "pickerGroup.border"                      : "#353A42",
         "pickerGroup.foreground"                  : "#696F79",
-        
+
     	"editorGroupHeader.tabsBackground"        : "#1C1D25",
     	"editorGroupHeader.tabsBorder"            : "#00000066",
         "tab.activeBackground"                    : "#ED5454",
@@ -550,8 +550,8 @@
         "editorBracketMatch.background"           : "#558EFF",
         "editorBracketMatch.border"               : "#558EFF",
         "editorCodeLens.foreground"               : "",
-        "editorError.foreground"                  : "",
-        "editorError.border"                      : "",
+        "editorError.foreground"                  : "#DD0000",
+        "editorError.border"                      : "#7049B800",
         "editorGutter.background"                 : "#282C34",
         "editorGutter.modifiedBackground"         : "#EAC72E",
         "editorGutter.addedBackground"            : "#39CA74",
