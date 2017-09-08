@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.1]
+### Changed
+- Fixed ugly error code highlight
+
 ## [2.3.0]
 ### Changed
 - Update workspace theme that broke with VSCode 1.16.0
