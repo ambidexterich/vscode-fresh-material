@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.2]
+### Changed
+- Fixed missing statusBar.noFolderForeground color
+
 ## [2.3.1]
 ### Changed
 - Fixed ugly error code highlight
