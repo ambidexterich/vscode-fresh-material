@@ -613,7 +613,7 @@
         "statusBar.border"                        : "#00000030",
         "statusBar.debuggingBackground"           : "#DD4941",
         "statusBar.debuggingForeground"           : "#ffffff",
-        "statusBar.noFolderForeground"            : "",
+        "statusBar.noFolderForeground"            : "#9095A1",
         "statusBar.noFolderBackground"            : "#23272E",
         "statusBarItem.prominentBackground"       : "",
         "statusBarItem.prominentHoverBackground"  : "",
