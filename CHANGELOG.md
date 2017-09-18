@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.4]
+### Changed
+- Fixed peekViewEditorGutter background
+
 ## [2.3.3]
 ### Changed
 - Fixed ugly warning code highlight
