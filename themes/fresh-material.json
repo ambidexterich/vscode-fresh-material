@@ -647,7 +647,7 @@
 
         "welcomePage.buttonBackground"            : "#1C1D25",
         "welcomePage.buttonHoverBackground"       : "#7049B820",
-        "walkThrough.embeddedEditorBackground"    : ""
+        "walkThrough.embeddedEditorBackground"    : "#2C323C7F"
 
         //"statusBar.noFolderBorder":"#ff00ff",
         //"sideBar.dropBackground":"#ff00ff",

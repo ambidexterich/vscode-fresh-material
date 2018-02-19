@@ -647,6 +647,6 @@
 
         "welcomePage.buttonBackground"            : "#1C1D25",
         "welcomePage.buttonHoverBackground"       : "#1D8CEB20",
-        "walkThrough.embeddedEditorBackground"    : ""
+        "walkThrough.embeddedEditorBackground"    : "#2C323C7F"
     }
 }
