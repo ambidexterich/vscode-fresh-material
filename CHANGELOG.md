@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.6]
+### Added
+- Added color for merge conflicts
 
 ## [2.3.5]
 ### Changed

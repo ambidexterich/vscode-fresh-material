@@ -1,8 +1,8 @@
 {
 	"name": "fresh-material",
 	"displayName": "Fresh Material",
-	"description": "Easy on the eyes with a splash of flair",
-	"version": "2.3.5",
+	"description": "Easy on the eyes with a splash of flair inspired by Atom Material UI",
+	"version": "2.3.6",
 	"publisher": "2ndshift",
 	"engines": {
 		"vscode": "^1.12.0"
