@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.7]
+### Added
+- Custom colors for breadcrumb
+
 ## [2.3.6]
 ### Added
 - Added color for merge conflicts
