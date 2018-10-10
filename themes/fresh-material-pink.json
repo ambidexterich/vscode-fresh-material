@@ -492,7 +492,7 @@
         "editorBracketMatch.background"           : "#558EFF",
         "editorBracketMatch.border"               : "#558EFF",
         "editorCodeLens.foreground"               : "#ffffff44",
-        "editorCursor.foreground"                 : "#E72E6B",
+        "editorCursor.foreground"                 : "#52FEC2",
         "editorError.border"                      : "#7049B800",
         "editorError.foreground"                  : "#DD4941",
         "editorGroup.background"                  : "#1E1F29",
