@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-material" extension will be documented in this file.
 
+## [2.3.8]
+### Changed
+- Add more contrast between highlighted text and cursor
+
 ## [2.3.7]
 ### Added
 - Custom colors for breadcrumb
