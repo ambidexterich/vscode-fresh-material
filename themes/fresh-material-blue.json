@@ -30,7 +30,6 @@
         "extensionButton.prominentBackground"     : "#1D8CEB20",
         "extensionButton.prominentForeground"     : "#ffffff",
         "extensionButton.prominentHoverBackground": "#2695F0",
-        "focusBorder"                             : "#1D8CEB",
         "input.border"                            : "#2B2E37",
         "inputOption.activeBorder"                : "#FFFFFF",
         "list.activeSelectionBackground"          : "#2695F0",
@@ -51,7 +50,8 @@
         "scrollbarSlider.hoverBackground"         : "#1D8CEB60",
         "sideBarSectionHeader.foreground"         : "#ffffff",
         "sideBarTitle.foreground"                 : "#2695F0",
-        "statusBarItem.prominentHoverBackground"  : "",
+        
+        "statusBarItem.prominentHoverBackground"  : "#1D8CEB7F",
         "tab.activeBackground"                    : "#2695F0",
         "tab.activeBorder"                        : "#FFFFFF",
         "tab.activeForeground"                    : "#ffffff",

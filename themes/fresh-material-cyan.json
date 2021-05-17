@@ -30,7 +30,6 @@
         "extensionButton.prominentBackground"     : "#6FD8E520",
         "extensionButton.prominentForeground"     : "#ffffff",
         "extensionButton.prominentHoverBackground": "#84DEE9",
-        "focusBorder"                             : "#6FD8E5",
         "input.border"                            : "#2B2E37",
         "inputOption.activeBorder"                : "#4E8289",
         "list.activeSelectionBackground"          : "#84DEE9",
