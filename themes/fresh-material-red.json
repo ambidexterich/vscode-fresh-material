@@ -51,8 +51,9 @@
         "sideBarSectionHeader.foreground"         : "#ffffff",
         "sideBarTitle.foreground"                 : "#ED5454",
         "statusBarItem.prominentHoverBackground"  : "#ED54547F",
+        "statusBarItem.remoteForeground"          : "#282C34",
         "tab.activeBackground"                    : "#ED5454",
         "tab.activeBorder"                        : "#51D2D3",
         "tab.activeForeground"                    : "#ffffff"
     }
-}
+}   

@@ -50,7 +50,7 @@
         "scrollbarSlider.hoverBackground"         : "#1D8CEB60",
         "sideBarSectionHeader.foreground"         : "#ffffff",
         "sideBarTitle.foreground"                 : "#2695F0",
-        
+        "statusBarItem.remoteForeground"          : "#282C34",
         "statusBarItem.prominentHoverBackground"  : "#1D8CEB7F",
         "tab.activeBackground"                    : "#2695F0",
         "tab.activeBorder"                        : "#FFFFFF",
