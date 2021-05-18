@@ -30,7 +30,6 @@
         "extensionButton.prominentBackground"     : "#ED5454",
         "extensionButton.prominentForeground"     : "#ffffff",
         "extensionButton.prominentHoverBackground": "#51D2D3",
-        "focusBorder"                             : "#EA3E3F",
         "input.border"                            : "#2B2E37",
         "inputOption.activeBorder"                : "#51D2D3",
         "list.activeSelectionBackground"          : "#ED5454",
@@ -51,9 +50,10 @@
         "scrollbarSlider.hoverBackground"         : "#EA3E3F60",
         "sideBarSectionHeader.foreground"         : "#ffffff",
         "sideBarTitle.foreground"                 : "#ED5454",
-        "statusBarItem.prominentHoverBackground"  : "ED54547F",
+        "statusBarItem.prominentHoverBackground"  : "#ED54547F",
+        "statusBarItem.remoteForeground"          : "#282C34",
         "tab.activeBackground"                    : "#ED5454",
         "tab.activeBorder"                        : "#51D2D3",
         "tab.activeForeground"                    : "#ffffff"
     }
-}
+}   

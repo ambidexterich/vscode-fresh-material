@@ -1,4 +1,4 @@
-# Fresh Material (v2.3.9)
+# Fresh Material (v2.3.10)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 
