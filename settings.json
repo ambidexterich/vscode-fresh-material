@@ -1,0 +1,116 @@
+{
+ "workbench":   {
+    "activityBar.activeBorder": "#7D57C2",
+    "activityBar.activeFocusBorder": "#B0E357",
+    "activityBar.dropBorder": "#B0E357",
+    "activityBarBadge.background": "#B0E357",
+    "breadcrumb.activeSelectionForeground": "#B0E357",
+    "breadcrumb.focusForeground": "#B0E357",
+    "button.background": "#7D57C2",
+    "dropdown.border": "#7D57C2",
+    "list.activeSelectionBackground": "#7D57C2",
+    "list.focusBackground": "#7d57c27f",
+    "panelTitle.activeBorder": "#7D57C2",
+    "scrollbarSlider.activeBackground": "#7d57c27f",
+    "scrollbarSlider.background": "#7D57C23f",
+    "scrollbarSlider.hoverBackground": "#7D57C25f",
+    "settings.checkboxBackground": "#7D57C2",
+    "settings.checkboxBorder": "#7D57C2",
+    "settings.modifiedItemIndicator": "#B0E357",
+    "statusBar.background": "#7D57C2",
+    "statusBarItem.remoteBackground": "#B0E357",
+    "tab.activeBorderTop": "#7D57C2",
+    "statusBar.noFolderBackground": "#7D57C27f",
+    "statusBar.noFolderBorder": "#00000030",
+    "statusBar.noFolderForeground": "#eaf0fd7f",
+
+    "checkbox.background": "#7D57C2",
+    "checkbox.foreground": "#eaf0fd",
+    "welcomePage.background": "#2a2c34",
+    "welcomePage.progress.background": "#262830",
+    "welcomePage.progress.foreground": "#7D57C2",
+    "welcomePage.tileBackground": "#262830",
+    "welcomePage.tileHoverBackground": "#e4eaf7",
+    
+    "notificationCenter.border": "#00000030",
+    "notificationCenterHeader.foreground": "#eaf0fd",
+    "notificationCenterHeader.background": "#7D57C2",
+    
+    "activityBar.background": "#262830",
+    "sideBar.background": "#282a32",
+    "editor.background": "#2a2c34",
+    "editorGroupHeader.tabsBackground": "#262630",
+    "panel.background": "#262830",
+    "tab.activeBackground": "#2a2a34",
+    "tab.inactiveBackground": "#262630",
+
+    "peekView.border": "#7D57C2",
+    "peekViewEditor.background": "#7D57C210",
+    "peekViewResult.selectionBackground": "#7D57C2",
+
+    "activityBar.border": "#00000030",
+    "panel.border": "#00000030",
+    "sideBar.border": "#00000030",
+    "titleBar.border": "#00000050",
+    
+    "activityBar.foreground": "#e5e5e5",
+    "activityBarBadge.foreground": "#262830",
+    "activityBar.inactiveForeground": "#7C828D7F",
+    
+    "breadcrumbPicker.background": "#282c34",
+    
+    "editorLineNumber.activeForeground" : "#777788",
+    "editorLineNumber.foreground": "#4B4B64",
+    "editor.hoverHighlightBackground": "#5692FF30",
+    "editor.lineHighlightBackground": "#e5e5e509",
+    "editor.lineHighlightBorder": "#e5e5e500",
+    "editorCursor.foreground": "#5692FF",
+    "editor.selectionBackground": "#5692FF30",
+    "editor.selectionHighlightBackground": "#e5e5e520",
+
+    "editorError.foreground": "#DD4941",
+    "editorWarning.foreground": "#EAC72E",
+    
+    
+    "focusBorder": "#00000000",
+    "foreground": "#ABB2BF",
+    
+    "dropdown.background": "#2F333B",
+    
+    "minimap.background": "#282a32",
+    "minimapSlider.background": "#e5e5e514",
+    "minimapSlider.activeBackground": "#e5e5e514",
+    "minimapSlider.hoverBackground": "#e5e5e51a",
+    
+    "sideBar.foreground": "#7C828D",
+    "sideBarSectionHeader.border": "#00000000",
+    "sideBarTitle.foreground": "#e5e5e5",
+    
+    "list.activeSelectionForeground": "#e5e5e5",
+    "list.hoverForeground": "#e5e5e5",
+    "list.hoverBackground": "#2F2F38",
+    "list.inactiveSelectionBackground": "#2F2F38",
+    "list.inactiveSelectionForeground": "#e5e5e5",
+    
+    "input.border": "#2F333B",
+    "input.background": "#262830",
+    
+    "settings.dropdownBackground": "#262830",
+    "settings.dropdownBorder": "#2F333B",
+    "settings.textInputBorder": "#2F333B",
+    "settings.checkboxForeground": "#e5e5e5",
+    "settings.focusedRowBackground": "#2F333B",
+    "settings.headerForeground": "#e5e5e5",
+    "settings.numberInputBackground": "#262830",
+    "settings.textInputBackground": "#262830",
+    "statusBarItem.remoteForeground": "#262830",
+    
+    
+    "titleBar.activeBackground": "#262630",
+    "titleBar.activeForeground": "#eaf0fd",
+    "titleBar.inactiveBackground": "#262630",
+    "titleBar.inactiveForeground": "#7C828D"
+    },
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Anonymous Pro', Menlo, Monaco, 'Courier New', monospace"
+}

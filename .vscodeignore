@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+new.json
+node_modules/
+src/**
+tests/**
+theme.template
+vsc-extension-quickstart.md

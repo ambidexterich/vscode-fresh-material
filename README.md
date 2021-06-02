@@ -1,12 +1,8 @@
-# Fresh Material (v2.3.9)
+# Fresh Material (v3.0.0)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/2ndshift.fresh-material.svg)](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 
 ![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/master/screenshots/preview.png)
-
-New Colors
-
-![](https://raw.githubusercontent.com/ambidexterich/vscode-fresh-material/develop/screenshots/preview-all.png)
 
 ## Icons
 To match the screenshot icons, install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -26,7 +22,7 @@ Terminal Theme - Borrowed from Flat UI Terminal base and bright ansi colors
 
 ## License
 
-Copyright 2017 Rich Hamburg
+Copyright 2021 Rich Hamburg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

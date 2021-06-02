@@ -2,12 +2,20 @@
 	"name": "fresh-material",
 	"displayName": "Fresh Material",
 	"description": "Easy on the eyes with a splash of flair inspired by Atom Material UI",
-	"version": "2.3.9",
+	"version": "3.0.0",
 	"publisher": "2ndshift",
-	"engines": {
-		"vscode": "^1.12.0"
+	"galleryBanner": {
+		"theme": "dark",
+		"color": "#272C35"
 	},
 	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"scripts": {
+		"start": "nodemon --watch src src/index.js",
+		"build": "node src/index.js"
+	},
 	"categories": [
 		"Themes"
 	],
@@ -26,36 +34,6 @@
 				"label": "Fresh Material",
 				"uiTheme": "vs-dark",
 				"path": "./themes/fresh-material.json"
-			},
-			{
-				"label": "Fresh Material - Blue",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-blue.json"
-			},
-			{
-				"label": "Fresh Material - Green",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-green.json"
-			},
-			{
-				"label": "Fresh Material - Pink",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-pink.json"
-			},
-			{
-				"label": "Fresh Material - Red",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-red.json"
-			},
-			{
-				"label": "Fresh Material - Indigo",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-indigo.json"
-			},
-			{
-				"label": "Fresh Material - Cyan",
-				"uiTheme": "vs-dark",
-				"path": "./themes/fresh-material-cyan.json"
 			}
 		]
 	},
@@ -63,5 +41,10 @@
 		"id": "dd13f358-6e55-46d1-961e-79ef6cf9221b",
 		"publisherDisplayName": "Rich Hamburg",
 		"publisherId": "711ccf4d-a23e-4749-9ef5-135cbf6c9c10"
+	},
+	"devDependencies": {
+		"color": "^3.1.3",
+		"eslint": "^7.27.0",
+		"nodemon": "^2.0.7"
 	}
 }

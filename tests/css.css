@@ -1,0 +1,27 @@
+@import "manual.css";
+
+@font-face {
+  font-family: DroidSans;
+  src: url(DroidSans.ttf);
+  unicode-range: U+000-5FF, U+1e00-1fff, U+2000-2300;
+}
+
+:root {
+    --color: rgb(255,0,0);
+}
+
+h1.mystyle:lang(en) {
+  color:blue; /* TODO: change THIS to yellow for next version! */
+  border: var(--color);
+  background-color: #FAFAFA;
+  background:url(hello.jpg) !important;
+}
+
+div > p, p ~ ul, input[type="radio"] {
+  color: green;
+  width: calc(80% - 100px);
+}
+
+#header:after {
+  color: red;
+}
